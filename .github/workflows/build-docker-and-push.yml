@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: NuRoZ123/ci-cd-github:latest
+          tags: nuroz123/ci-cd-github:latest
